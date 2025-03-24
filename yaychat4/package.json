@@ -1,0 +1,10 @@
+{
+  "name": "node-template",
+  "version": "22.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
